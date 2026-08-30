@@ -16,7 +16,7 @@
 -hand writing
 -eraser
 -whiteboard
-# NoõID
+# NoxID
 -live profile picture
 -banner
 -work
