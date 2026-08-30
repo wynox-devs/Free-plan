@@ -1,51 +1,51 @@
 # Nox Chat
--virustotal scan api
--built-in call
--video call
--sticker
--customize wallpaper
--customize ringtone & notifications
--250 friends limit
+-virustotal scan api<br>
+-built-in call<br>
+-video call<br>
+-sticker<br>
+-customize wallpaper<br>
+-customize ringtone & notifications<br>
+-250 friends limit<br>
 # Nox Browser
--customize search engine
--side bar
--favourite tab
--private with tor
--reading mode
+-customize search engine<br>
+-side bar<br>
+-favourite tab<br>
+-private with tor<br>
+-reading mode<br>
 # WyNote
--hand writing
--eraser
--whiteboard
+-hand writing<br>
+-eraser<br>
+-whiteboard<br>
 # NoxID
--live profile picture
--banner
--work
--ready to hire option
+-live profile picture<br>
+-banner<br>
+-work<br>
+-ready to hire option<br>
 # NoxFeed
--upload(up to 20MB)
--like
--share
--comment
--poll
+-upload(up to 20MB)<br>
+-like<br>
+-share<br>
+-comment<br>
+-poll<br>
 # Nox Writer
--Shape
--font
--true font file upload 
--print
--pfd export
--docx export 
--image
+-Shape<br>
+-font<br>
+-true font file upload <br>
+-print<br>
+-pfd export<br>
+-docx export <br>
+-image<br>
 # Nox Sheet
--choose from menu values
--color
--print
--shape
--image
--export excel file
+-choose from menu values<br>
+-color<br>
+-print<br>
+-shape<br>
+-image<br>
+-export excel file<br>
 # Nox Presentation 
--Animation
--Export powerpoint file
--presentation in app
+-Animation<br>
+-Export powerpoint file<br>
+-presentation in app<br>
 # Nox Map
--Track
--Save place
+-Track<br>
+-Save place<br>
