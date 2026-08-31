@@ -50,3 +50,7 @@
 # Nox Map
 -Track<br>
 -Save place<br>
+# Aestrix by wynox
+-15 messenges limit/day<br>
+-customize personalize<br>
+-voice
