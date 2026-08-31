@@ -36,6 +36,11 @@
 -pfd export<br>
 -docx export <br>
 -image<br>
+# NoxCode
+-Edit<br>
+-Save<br>
+-Import<br>
+-Export
 # Nox Sheet
 -choose from menu values<br>
 -color<br>
